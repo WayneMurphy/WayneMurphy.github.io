@@ -1,2 +1,3 @@
-# Michael-Wayne.github.io
-For a life with lasting health, deep affection, and continuous development.
+# Wayne Murphy 's Personal Site
+##### For a life of lasting health, deep affection, and continuous development.
+---
