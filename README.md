@@ -2,14 +2,14 @@
 
 ---
 
-- [2024.12.21 建站缘起](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1221-origin.md) 关于为什么建设本站, 设站之初的思考, 以及作者希望与读者达成的约定
 - [2024.12.31 建筑人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1231-intention.md) 关于时代的困境和本人初心, 应对的出发点, 以及实践的路径
+- [2024.12.21 建站缘起](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1221-origin.md) 关于为什么建设本站, 设站之初的思考, 以及作者希望与读者达成的约定
 
 ---
 
 [License](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
-You are free to:
+Unless otherwise specified, you are free to:
 Share — copy and redistribute the material in any medium or format
 Adapt — remix, transform, and build upon the material
 The licensor cannot revoke these freedoms as long as you follow the license terms.
