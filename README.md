@@ -2,6 +2,7 @@
 
 ---
 
+- [2025.01.12 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-ReviewCreation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
 - [2025.01.06 锚定人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0106-anchoring.md) 寻找自己的终极答案, 超越宗教, 在变化的世界中锚定自己的方向
 - [2024.12.31 建筑人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1231-intention.md) 关于时代的困境和本人初心, 应对的出发点, 以及实践的路径
 - [2024.12.21 建站缘起](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1221-origin.md) 关于为什么建设本站, 设站之初的思考, 以及作者希望与读者达成的约定
@@ -37,7 +38,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 linking to this deed or the license that it summarizes does not create a lawyer-client or any other relationship.
 ```
 
-[CC BY-NC 4.0 署名—非商业性使用 4.0 协议国际版中文版 (仅供参考)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
+[CC BY-NC 4.0 署名—非商业性使用 4.0 协议国际版 (中文版; 仅供参考)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
 ```
 除非另有说明，您可以自由地：
 共享 — 在任何媒介以任何形式复制、发行本作品
