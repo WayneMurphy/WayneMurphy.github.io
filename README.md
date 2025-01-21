@@ -2,7 +2,8 @@
 
 ---
 
-- [2025.01.12 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-ReviewCreation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
+- [2025.01.21 梦可超凡](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0121-dream.md) 梦境是体验奇迹的天然通道, 可带来求知启发与超越时空的玄妙体验
+- [2025.01.12 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-metaevaluation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
 - [2025.01.06 锚定人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0106-anchoring.md) 寻找自己的终极答案, 超越宗教, 在变化的世界中锚定自己的方向
 - [2024.12.31 建筑人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1231-intention.md) 关于时代的困境和本人初心, 应对的出发点, 以及实践的路径
 - [2024.12.21 建站缘起](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1221-origin.md) 关于为什么建设本站, 设站之初的思考, 以及作者希望与读者达成的约定
