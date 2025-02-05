@@ -2,6 +2,7 @@
 
 ---
 
+- [2025.02.05 解忧疗郁](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0205-healing.md) 如何不费气力地祛除焦虑回归平静, 重获内在的健康, 宁静与和谐
 - [2025.01.21 梦可超凡](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0121-dream.md) 梦境是体验奇迹的天然通道, 可带来求知启发与超越时空的玄妙体验
 - [2025.01.12 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-metaevaluation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
 - [2025.01.06 锚定人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0106-anchoring.md) 寻找自己的终极答案, 超越宗教, 在变化的世界中锚定自己的方向
