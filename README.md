@@ -2,6 +2,7 @@
 
 ---
 
+- [2025.02.25 马云吃面](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0215-jackma.md) 一段奇妙的梦境, 启示了马云命运中的一段波折
 - [2025.02.10 拥抱好眠](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0210-hypnotic.md) 分享一套快速入睡的实用技巧
 - [2025.02.05 解忧疗郁](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0205-healing.md) 如何不费气力地祛除焦虑回归平静, 重获内在的健康, 宁静与和谐
 - [2025.01.21 梦可超凡](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0121-dream.md) 梦境是体验奇迹的天然通道, 可带来求知启发与超越时空的玄妙体验
