@@ -2,7 +2,8 @@
 
 ---
 
-- [2025.02.28 山河社稷](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0218-2025.md) 2025, 观影奇梦
+- [2025.03.05 三生万物](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0220-autopoietic.md) 不是创造论, 古老东方神秘智慧中悟道得到的宇宙演化图景
+- [2025.02.28 山河社稷](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0218-2025.md) 2025, 观影奇梦; 纪念这个极有纪念意义的年份
 - [2025.02.20 马云吃面](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0215-jackma.md) 一段奇妙的梦境, 启示了马云命运中的一段波折
 - [2025.02.10 拥抱好眠](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0210-hypnotic.md) 分享一套快速入睡的实用技巧
 - [2025.02.05 解忧疗郁](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0205-healing.md) 如何不费气力地祛除焦虑回归平静, 重获内在的健康, 宁静与和谐
