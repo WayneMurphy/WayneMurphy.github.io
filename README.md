@@ -2,16 +2,17 @@
 
 ---
 
-- [2025.03.10 寻香静心](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0303-incense.md) 探索香气疗愈的力量：利用嗅觉的独特优势，无需专注就能疗愈现代生活
-- [2025.03.05 三生万物](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0220-autopoietic.md) 不是创造论, 古老东方神秘智慧中悟道得到的宇宙演化图景
+- [2025.03.14 寻香静心](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0303-incense.md) 探索香气疗愈的力量：利用嗅觉的独特优势，无需专注就能疗愈现代的身心
+- [2025.03.07 三生万物](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0220-autopoietic.md) 不是创造论, 古老东方神秘智慧中悟道得到的宇宙演化图景
 - [2025.02.28 山河社稷](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0218-2025.md) 2025, 观影奇梦; 纪念这个极有纪念意义的年份
-- [2025.02.20 马云吃面](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0215-jackma.md) 一段奇妙的梦境, 启示了马云命运中的一段波折
-- [2025.02.10 拥抱好眠](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0210-hypnotic.md) 分享一套快速入睡的实用技巧
-- [2025.02.05 解忧疗郁](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0205-healing.md) 如何不费气力地祛除焦虑回归平静, 重获内在的健康, 宁静与和谐
+- [2025.02.21 马云吃面](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0215-jackma.md) 一段奇妙的梦境, 启示了马云命运中的一段波折
+- [2025.02.14 拥抱好眠](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0210-hypnotic.md) 分享一套快速入睡的实用技巧
+- [2025.02.07 解忧疗郁](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0205-healing.md) 如何不费气力地祛除焦虑回归平静, 重获内在的健康, 宁静与和谐
+- [2025.01.28 新年快乐](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0128-snake.md) 蛇年新征程, 愿你机智应变, 自尊自信, 无畏无悔 (空, 无正文)
 - [2025.01.21 梦可超凡](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0121-dream.md) 梦境是体验奇迹的天然通道, 可带来求知启发与超越时空的玄妙体验
-- [2025.01.12 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-metaevaluation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
-- [2025.01.06 锚定人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0106-anchoring.md) 寻找自己的终极答案, 超越宗教, 在变化的世界中锚定自己的方向
-- [2024.12.31 建筑人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1231-intention.md) 关于时代的困境和本人初心, 应对的出发点, 以及实践的路径
+- [2025.01.14 创世论评](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0112-metaevaluation.md) 关于宇宙起源和世界的本质, 众说纷纭, 需要我们去明辨和研判
+- [2025.01.07 锚定人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0106-anchoring.md) 寻找自己的终极答案, 超越宗教, 在变化的世界中锚定自己的方向
+- [2024.12.28 建筑人生](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1231-intention.md) 关于时代的困境和本人初心, 应对的出发点, 以及实践的路径
 - [2024.12.21 建站缘起](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2024_1221-origin.md) 关于为什么建设本站, 设站之初的思考, 以及作者希望与读者达成的约定
 
 ---
