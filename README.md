@@ -2,6 +2,7 @@
 
 ---
 
+- [2025.03.21 世界非虚](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0307-nonfiction.md) 世界不是计算机模拟出的虚假场景, 我们的感知也是真实的而非`缸中之脑`
 - [2025.03.14 寻香静心](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0303-incense.md) 探索香气疗愈的力量：利用嗅觉的独特优势，无需专注就能疗愈现代的身心
 - [2025.03.07 三生万物](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0220-autopoietic.md) 不是创造论, 古老东方神秘智慧中悟道得到的宇宙演化图景
 - [2025.02.28 山河社稷](https://github.com/WayneMurphy/WayneMurphy.github.io/blob/main/blog/2025_0218-2025.md) 2025, 观影奇梦; 纪念这个极有纪念意义的年份
